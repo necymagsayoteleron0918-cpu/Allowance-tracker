@@ -1,0 +1,6 @@
+{
+  "name": "Allowance Tracker",
+  "description": "Smart student allowance and budget tracker with daily spending logs, 'Can I Afford This?' purchase simulator, and runout forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
